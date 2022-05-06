@@ -1,0 +1,16 @@
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\bin\Debug\net5.0\notas-alunos.exe
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\bin\Debug\net5.0\notas-alunos.deps.json
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\bin\Debug\net5.0\notas-alunos.runtimeconfig.json
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\bin\Debug\net5.0\notas-alunos.runtimeconfig.dev.json
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\bin\Debug\net5.0\notas-alunos.dll
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\bin\Debug\net5.0\notas-alunos.pdb
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\notas-alunos.csproj.AssemblyReference.cache
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\notas-alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\notas-alunos.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\notas-alunos.AssemblyInfo.cs
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\notas-alunos.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\notas-alunos.dll
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\refint\notas-alunos.dll
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\notas-alunos.pdb
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\notas-alunos.genruntimeconfig.cache
+C:\Users\dougl\Documents\Dev\Git\DIO\notas-alunos\obj\Debug\net5.0\ref\notas-alunos.dll

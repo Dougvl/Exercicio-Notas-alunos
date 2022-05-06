@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VBhoulIDE9t/jRhXaKkVZRLJw3fbb2gemjzXfP5XrBiBNqI9oBR1ioz0rUO3PHHd56q/3vyKNpdC+fiFi2VOjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dougl\\Documents\\Dev\\Git\\DIO\\notas-alunos\\notas-alunos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
